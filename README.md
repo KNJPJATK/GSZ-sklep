@@ -1,0 +1,2 @@
+# GSZ-sklep
+Sklep internetowy 
